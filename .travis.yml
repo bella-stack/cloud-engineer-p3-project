@@ -33,4 +33,4 @@ after_success:
   - docker push bellastacks/udagram-api-feed:v1
   - docker push bellastacks/udagram-api-user:v1
   - docker push bellastacks/udagram-frontend:v1
-  - docker push bellastacks/udagram-reverseproxy:v1
+  - docker push bellastacks/reverseproxy:v1
